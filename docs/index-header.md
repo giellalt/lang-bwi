@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/github/license/giellalt/lang-bwi)](https://github.com/giellalt/lang-bwi/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-bwi)](https://github.com/giellalt/lang-bwi/issues)
 [![Build Status](https://builds.giellalt.org/api/badge/lang-bwi?label=CI)](https://builds.giellalt.org/pipelines/lang-bwi/builds/latest)
+[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/bani1255)
 
 This page documents the work on the **Baniwa language model**. 
 
