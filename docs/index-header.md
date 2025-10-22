@@ -4,7 +4,7 @@
 ![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-bwi%2Fgh-pages%2Flemmacount.json)
 [![License](https://img.shields.io/github/license/giellalt/lang-bwi)](https://github.com/giellalt/lang-bwi/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-bwi)](https://github.com/giellalt/lang-bwi/issues)
-[![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-bwi/main/badge.svg)](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-bwi/main/latest)
+[![Build Status](https://builds.giellalt.org/api/badge/lang-bwi?label=CI)](https://builds.giellalt.org/pipelines/lang-bwi/builds/latest)
 
 This page documents the work on the **Baniwa language model**. 
 
