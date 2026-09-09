@@ -1,8 +1,9 @@
 The Baniwa morphology and tools
 ==========================================
 
-[![Maturity](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-bwi%2Fgenerated%2Fdocs-data%2Ffst-maturity.json)](https://giellalt.github.io/MaturityClassification.html)
-![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-bwi%2Fgenerated%2Fdocs-data%2Ffst-lemmacount.json)
+[![Maturity](https://github.com/giellalt/lang-bwi/raw/generated/docs-data/fst-maturity.svg)](https://giellalt.github.io/MaturityClassification.html)
+![Lemma count](https://github.com/giellalt/lang-bwi/raw/generated/docs-data/fst-lemmacount.svg)
+[![Speller suggestion quality](https://github.com/giellalt/lang-bwi/raw/generated/docs-data/speller-suggestions.svg)](https://giellalt.github.io/lang-bwi/typosreport/)
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-bwi)](https://github.com/giellalt/lang-bwi/issues)
 [![License](https://img.shields.io/github/license/giellalt/lang-bwi)](https://github.com/giellalt/lang-bwi/blob/main/LICENSE)
 [![Doc build](https://img.shields.io/github/actions/workflow/status/giellalt/lang-bwi/docs.yml?logo=github&label=DocCI)](https://github.com/giellalt/lang-bwi/actions/workflows/docs.yml)
